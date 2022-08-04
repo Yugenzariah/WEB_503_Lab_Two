@@ -1,0 +1,20 @@
+{
+  "name": "web_503_lab_two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yugenzariah/WEB_503_Lab_Two.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yugenzariah/WEB_503_Lab_Two/issues"
+  },
+  "homepage": "https://github.com/Yugenzariah/WEB_503_Lab_Two#readme"
+}
